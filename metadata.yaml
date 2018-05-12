@@ -1,0 +1,38 @@
+_repo: Frank-in-the-Mountains_41802
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Castlemon, Harry
+    aliases:
+    - Castlemon, Henry
+    - Fosdick, Charles Austin
+    birthdate: 1842
+    deathdate: 1915
+    gutenberg_agent_id: '2274'
+    url: http://www.gutenberg.org/2009/agents/2274
+description: After acquitting himself on the battlefield in multiple volumes of Castlemon's
+  beloved juvenile fiction collection The Gunboat Series, protagonist Frank Nelson
+  sets off for another adventure -- this time in the heart of the majestic Rocky Mountains.
+  Through brutal storms, run-ins with friendly and not-so-friendly inhabitants of
+  the region, and several other setbacks and challenges, Frank and his loyal sidekick
+  Archie strive bravely to make it back home.
+gutenberg_issued: '2013-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Western stories'
+- !lcc 'PZ'
+- !lcsh 'Adventure stories'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Outdoor life -- Juvenile fiction'
+title: Frank in the Mountains
+url: http://www.gutenberg.org/ebooks/41802
